@@ -1,0 +1,49 @@
+; : ‚
+, < ‘
+. > ’
+p P π
+y Y ŋ
+f F
+g G
+c C
+r R
+l L
+/ ?
+@ ^
+\ |
+
+a A
+o O
+e E
+u U
+i I
+d D
+h H
+t T
+n N
+s S
+- _
+
+' "
+q Q
+j J
+k K
+x X
+b B
+m M
+w W
+v V
+z Z
+
+& %
+[ 7
+{ 5
+} 3
+( 1
+= 9
+* 0
+) 2
++ 4
+] 6
+! 8
+# `
